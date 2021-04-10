@@ -1,0 +1,11 @@
+---
+application:
+  name: "snypy-frontend"
+  project: "snypy"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-snypy-frontend"
+  routes:
+  - application_name: "snypy-frontend"
+    paths:
+    - "/*"
