@@ -26,7 +26,7 @@
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
     "@fortawesome/free-regular-svg-icons": "^5.15.3",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
-    "@ng-bootstrap/ng-bootstrap": "^7.0.0",
+    "@ng-bootstrap/ng-bootstrap": "^8.0.4",
     "@ng-select/ng-select": "^5.1.0",
     "@ngxs-labs/select-snapshot": "^2.0.1",
     "@ngxs/store": "^3.7.2",
